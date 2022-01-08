@@ -1,5 +1,7 @@
 # Shopify-Intern-Challenge
 
+### Author: Yichen Zhang
+### Email: Easonzyc_@outlook.com
 
 ### Prerequisites
 ### 1. MongoDB installed https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
