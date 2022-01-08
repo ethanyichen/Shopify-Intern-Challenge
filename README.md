@@ -14,7 +14,7 @@
 
 ## Steps to set up
 1. Open the project in intellij
-2. After project loads, run InventoryWebserviceApplication (If some classes show up as not found, try maven clean + install in the maven tool tab of intellij or try refresh maven in the maven tool tab)
+2. After project loads, run InventoryWebserviceApplication under src/main/java/com/example/inventory/webservice/InventoryWebserviceApplication.java (If some classes show up as not found, try maven clean + install in the maven tool tab of intellij or try refresh maven in the maven tool tab)
 3. You are now able to use the web application by calling the list of endpoints below!
 
 ## List Of Item Endpoints
